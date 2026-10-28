@@ -10,7 +10,7 @@
     "buttons",
     "interactive"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys/",
+  "homepage": "https://github.com/julzkeceabiez/julzaexce-baileys",
   "license": "MIT",
   "author": "Rajeh Taher (upstream Baileys); fork changes listed in CHANGELOG.md",
   "main": "./lib/index.js",
@@ -71,5 +71,9 @@
   },
   "engines": {
     "node": ">=20.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julzkeceabiez/julzaexce-baileys.git"
   }
 }
